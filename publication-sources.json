@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Text-to-hierarchical three-dimensional scene generation: a new approach for layered three-dimensional modeling from natural language",
+    "authors": "Zuan Gu, Tianhan Gao<sup>*</sup>, Lanxu Zhao, <strong>Huimin Liu</strong>",
+    "doi": "s42492-026-00226-0",
+    "date": "2026-08-26",
+    "volume": "9, Article 18",
+    "image": "hierarchical",
+    "fig": "1",
+    "credit": "Gu et al. (2026)",
+    "desc": "从自然语言生成可分层编辑的三维场景，结合视频生成、语义解耦与前景／背景重建。",
+    "en": "A compositional pipeline combining text-conditioned video, semantic decoupling, and foreground/background reconstruction."
+  },
+  {
+    "title": "Semantic-guided 3D Gaussian splatting for sparse-view reconstruction in industrial digital twins",
+    "authors": "Boyang Li, Tianhan Gao<sup>*</sup>, Zuan Gu, <strong>Huimin Liu</strong>",
+    "doi": "s42492-026-00229-x",
+    "date": "2026-08-17",
+    "volume": "9, Article 17",
+    "image": "semantic-3dgs",
+    "fig": "2",
+    "credit": "Li et al. (2026)",
+    "desc": "面向工业数字孪生的稀疏视角重建，结合几何初始化、语义引导解耦与高斯表面重建。",
+    "en": "Sparse-view industrial reconstruction with geometric initialization, semantic guidance, and Gaussian-to-mesh reconstruction."
+  },
+  {
+    "title": "Text-to-3D scene generation framework: bridging textual descriptions to high-fidelity 3D scenes",
+    "authors": "Zuan Gu, Tianhan Gao<sup>*</sup>, <strong>Huimin Liu</strong>",
+    "doi": "s42492-025-00210-0",
+    "date": "2025-12-18",
+    "volume": "8, Article 29",
+    "image": "text-to-3d",
+    "fig": "1",
+    "credit": "Gu et al. (2025)",
+    "desc": "从文本生成多视图视频，再通过三维高斯优化与网格提取得到一致的三维场景。",
+    "en": "Text-to-video generation followed by multi-view reconstruction, Gaussian optimization, and mesh extraction."
+  }
+]
